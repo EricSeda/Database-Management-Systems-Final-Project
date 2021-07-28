@@ -6,9 +6,13 @@ The objective of this project was to identify a business case in which we can bu
 
 Final Project.docx
 	Business Description
+	
 	Entity Relationship Diagram
+	
 	Relational Model
+	
 	Normalization 
+	
 	Description of business case queries run after we implemented our design
 	
 	
